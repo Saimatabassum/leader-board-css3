@@ -149,6 +149,12 @@ top players style
     column-gap: 23px;
 }
 
+.course {
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px whitesmoke;
+    padding: 12px;
+}
+
 .course .course-banner img {
     width: 224px;
     height: 104px;
@@ -183,6 +189,7 @@ top players style
     padding: 3px 5px;
     color: #FF4A60;
     font-size: 14px;
+    margin-right: 10px;
 }
 
 /* -------------------------
